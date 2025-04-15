@@ -6,4 +6,4 @@ This project gives a golf player a way where you can figure out what angle to hi
 
 Documentation:
 
-[https://docs.google.com/document/d/1UD9dvnUgoGLj0Sc3J3THTda0bTDEV0687WkBgEN6fZo/edit?usp=sharing](url)
+https://docs.google.com/document/d/1UD9dvnUgoGLj0Sc3J3THTda0bTDEV0687WkBgEN6fZo/edit?usp=sharing
