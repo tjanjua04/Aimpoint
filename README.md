@@ -6,8 +6,8 @@ Tauheed Janjua, Garrett Kostyk, Najib Hersi
 
 # Tech Stack
 Raspberry Pi 5
+
 Python
-JavaScript
 
 # Documentation
 [Project Report](https://docs.google.com/document/d/1UD9dvnUgoGLj0Sc3J3THTda0bTDEV0687WkBgEN6fZo/edit?usp=sharing)
